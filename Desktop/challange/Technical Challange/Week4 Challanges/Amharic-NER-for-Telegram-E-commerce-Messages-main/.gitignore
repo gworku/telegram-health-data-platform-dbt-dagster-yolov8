@@ -1,0 +1,6 @@
+.venv
+/photos
+*.session
+*.csv
+*.conll
+.env
