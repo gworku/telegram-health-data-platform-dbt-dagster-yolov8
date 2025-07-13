@@ -1,4 +1,4 @@
-# Building a Data Warehouse for Ethiopian Medical Business Data
+# End-to-End Data Platform for Ethiopian Medical Telegram Dat
 
 ## Project Overview
 This project involves creating a data warehouse for **Kara Solutions**, designed to store and analyze data on Ethiopian medical businesses scraped from **Telegram channels**. The goal is to derive insights into trends and patterns within the medical sector in Ethiopia. The project includes:
